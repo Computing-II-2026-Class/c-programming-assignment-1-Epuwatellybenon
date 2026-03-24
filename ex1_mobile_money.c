@@ -1,5 +1,5 @@
-/* Epuwat Elly Benon*/
-/* 25/U/BIE/18668/PE */
+/*Name:Epuwat Elly Benon*/
+/*Student number:25/U/BIE/18668/PE */
 
 #include <stdio.h>
 
