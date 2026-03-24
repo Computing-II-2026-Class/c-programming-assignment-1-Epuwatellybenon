@@ -1,7 +1,8 @@
 /* Name: Epuwat Elly Benon*/
 /* Student Number: 25/U/BIE/18668/PE*/
 #include <stdio.h>
-int main() {
+int main(void)
+{
     float unitsConsumed, costPerUnit, totalBill;
 
     printf("Enter the number of units consumed: \n");
